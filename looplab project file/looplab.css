@@ -1,0 +1,57 @@
+.navbar{
+    background: rgba(19, 166, 211, 0.3);
+    border-bottom: 3px solid rgb(78, 77, 134);
+}
+#head{
+    background: url('img-looplab/loop2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 600px;
+}
+#nav-area .nav-item{
+    text-transform: uppercase;
+    padding-right: 30px;
+   
+}
+#nav-area .nav-item .nav-link{
+   color: #fff;
+}
+#head .dark-overlay{
+    background: rgba(0,0,0,.3);
+    min-height: 600px;
+}
+#head .fa{
+    background: #fff;
+    color: #2f00ff;
+    padding: 10px;
+    border-radius: 5px;
+}
+#head .card{
+    opacity: .8;
+}
+#explore{
+    background: rgb(154, 166, 170);
+}
+#explore-main{
+    background: #fff3e6;
+}
+#explore .fa{
+    background: #acb5b8;
+    color: #2f00ff;
+    padding: 10px;
+    border-radius: 5px;
+}
+#create-main .fa{
+    background: #fff;
+    color: #2f00ff;
+    padding: 10px;
+    border-radius: 5px; 
+}
+#share-main .fa{
+    background: #b8acac;
+    color: #2f00ff;
+    padding: 10px;
+    border-radius: 5px;
+}
